@@ -8,7 +8,4 @@ We can run the application by simply going to the app.js file and runnig it on t
 ## System Requirments
 1.Visual Studio Code<br/>
 2.Latest Installed Version Of Node JS<br/>
-###### 3.Node Modules<br/>
-1.npm Module<br/>
-2.yargs Module<br/>
-3.chalk Module<br/>
+
